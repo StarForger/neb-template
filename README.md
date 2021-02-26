@@ -135,7 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/StarForger/Neb-Template/issues
+[issues-url]: https://github.com/StarForger/neb-template/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
 [license-url]: ./LICENSE
 [product-screenshot]: https://via.placeholder.com/460x80/B22222/FFFFFF?text=Neb%20Template
