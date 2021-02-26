@@ -1,4 +1,5 @@
 # Neb-Template <!-- omit in toc -->
+<!-- markdownlint-disable MD033 -->
 <!-- LOGO -->
 <p align="center">
   <a href="https://github.com/StarForger">
