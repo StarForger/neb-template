@@ -43,7 +43,7 @@
 <!-- ABOUT -->
 ## About
 
-[![Product Name Screen Shot][product-screenshot]][product-url]
+[![Product Screen Shot][product-screenshot]][product-url]
 
 I've made these files so many times that I finally had to make this template. With it I know I have everything I need and everthing I create will come from the same starting point.
 
@@ -134,9 +134,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/StarForger/neb-template.svg?style=for-the-badge
 [issues-url]: https://github.com/StarForger/neb-template/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/StarForger/neb-template.svg?style=for-the-badge
 [license-url]: ./LICENSE
 [product-screenshot]: https://via.placeholder.com/460x80/B22222/FFFFFF?text=Neb%20Template
 [product-url]: https://example.com
